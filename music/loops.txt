@@ -1,0 +1,22 @@
+mus_zinnia.mp3			1041506 | 23617
+mus_rival.mp3			552312 | 12524
+mus_soul.mp3			1549409
+mus_perditioncrisis.mp3		8048
+mus_finefield.mp3		141580
+mus_virtualreality.mp3		511802 | 15994
+mus_oomiwashinden.mp3		6046
+mus_oomiwashindenFull.mp3	205095
+mus_croacus1.mp3		8126
+mus_croacus2.mp3		430589
+mus_mystrap.mp3			205488 | 4660
+mus_mapledream.mp3		9134
+mus_cookie4.mp3			21133
+mus_mizumiwa.mp3		13402
+mus_strongmonster.mp3		5980
+mus_youkaibackroad.mp3		1275720 | 28928
+mus_ccbm.mp3			1043065
+mus_pacedenergy.mp3		616480
+mus_roof2old.mp3		201468
+mus_roof2new.mp3		150869 | 3421
+mus_consultation.mp3		642281 | 14564
+mus_absolutezero.mp3		11326 | 257
